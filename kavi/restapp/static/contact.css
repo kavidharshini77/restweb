@@ -1,0 +1,48 @@
+.restbg{
+    background-image: url("itc.jpg");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    position: relative; 
+}
+
+.type{
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+    word-spacing: 60px;
+    border-bottom: 1px solid black;
+}
+
+.type a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.contact-section{
+    background-color: rgb(209, 88, 88);
+    width: 90%;
+    margin: 60px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.contact-section h2{
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.contact-details p{
+    font-size: 18px;
+    line-height: 2;
+}
+footer{
+    width: 100%;
+    height: 20px;
+    background-color: rgb(209, 88, 88);
+    text-align: center;
+    margin-top: 10cm; 
+    position: relative;
+}
